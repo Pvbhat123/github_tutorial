@@ -71,4 +71,13 @@ BRANCH COMMANDS
 *)git branch -d <-branch name-> (to delete branch)
 <br>
 <br>
+MERGING CODE
+<br>
+*)git diff <-branch name-> (to compare commits,branches,files and more)
+<br>
+*)git merge <-branch name-> (to merge 2 branches)
+<br>
+OR
+<br>
+Create a PR(pull request):it lets you tell others about changes you've pushed to a branch in a repository on github.
 
