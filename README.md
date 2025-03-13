@@ -30,4 +30,5 @@ add->adds new or changed files in your workspace directory to git staging area.
 git add <-file_name->
 <br>
 commit->it is the record of change.
+<br>
 git commit -m "some message"
