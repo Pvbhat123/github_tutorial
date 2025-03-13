@@ -80,4 +80,7 @@ MERGING CODE
 OR
 <br>
 Create a PR(pull request):it lets you tell others about changes you've pushed to a branch in a repository on github.
-
+<br>
+<br>
+PULL COMMAND
+*)git pull origin main ->used to fetch and download content from a remote repo and immediately update the local repo to match the content.
