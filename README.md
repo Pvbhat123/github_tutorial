@@ -23,3 +23,11 @@ GIT STATUS
 git status
 <br>
 <br>
+GIT ADD AND COMMIT
+<br>
+add->adds new or changed files in your workspace directory to git staging area.
+<br>
+git add <-file_name->
+<br>
+commit->it is the record of change.
+git commit -m "some message"
