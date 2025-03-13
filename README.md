@@ -41,4 +41,21 @@ push->upload local repo content to remote repo.
 *)git push origin main
 <br>
 <br>
+INIT COMMAND
+<br>
+init-used to create a new git repo.
+<br>
+*)git init
+<br>
+*)git remote add origin <-link->
+<br>
+*)git remote -v (to verify remotew)
+<br>
+*)git branch (to check branch)
+<br>
+*)git branch -M main (to rename branch)
+<br>
+*)git push origin main
+<br>
+<br>
 
