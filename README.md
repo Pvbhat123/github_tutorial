@@ -41,4 +41,43 @@ push->upload local repo content to remote repo.
 *)git push origin main
 <br>
 <br>
+INIT COMMAND
+<br>
+init-used to create a new git repo.
+<br>
+*)git init
+<br>
+*)git remote add origin <-link->
+<br>
+*)git remote -v (to verify remotew)
+<br>
+*)git branch (to check branch)
+<br>
+*)git branch -M main (to rename branch)
+<br>
+*)git push origin main
+<br>
+<br>
+BRANCH COMMANDS
+<br>
+*)git branch (to check branch)
+<br>
+*)git branch -M main (to rename branch)
+<br>
+*)git checkout -b <-new branch name-> (to create new branch)
+<br>
+*)git checkout <-branch name-> (to navigate)
+<br>
+*)git branch -d <-branch name-> (to delete branch)
+<br>
+<br>
+MERGING CODE
+<br>
+*)git diff <-branch name-> (to compare commits,branches,files and more)
+<br>
+*)git merge <-branch name-> (to merge 2 branches)
+<br>
+OR
+<br>
+Create a PR(pull request):it lets you tell others about changes you've pushed to a branch in a repository on github.
 
