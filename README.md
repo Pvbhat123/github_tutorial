@@ -58,4 +58,17 @@ init-used to create a new git repo.
 *)git push origin main
 <br>
 <br>
+BRANCH COMMANDS
+<br>
+*)git branch (to check branch)
+<br>
+*)git branch -M main (to rename branch)
+<br>
+*)git checkout -b <-new branch name-> (to create new branch)
+<br>
+*)git checkout <-branch name-> (to navigate)
+<br>
+*)git branch -d <-branch name-> (to delete branch)
+<br>
+<br>
 
