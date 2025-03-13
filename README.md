@@ -17,3 +17,9 @@ GIT CLONE
 <br>
 *)git clone https://github.com/Pvbhat123/github_tutorial.git
 <br>
+<br>
+GIT STATUS
+<br>
+git status
+<br>
+<br>
