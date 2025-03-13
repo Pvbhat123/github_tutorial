@@ -20,15 +20,15 @@ GIT CLONE
 <br>
 GIT STATUS
 <br>
-git status
+*)git status
 <br>
 <br>
 GIT ADD AND COMMIT
 <br>
 add->adds new or changed files in your workspace directory to git staging area.
 <br>
-git add <-file_name->
+*)git add <-file_name->
 <br>
 commit->it is the record of change.
 <br>
-git commit -m "some message"
+*)git commit -m "some message"
