@@ -31,4 +31,12 @@ add->adds new or changed files in your workspace directory to git staging area.
 <br>
 commit->it is the record of change.
 <br>
+<br>
+PUSH COMMAND
+<br>
+push->upload local repo content to remote repo.
+<br>
+*)git push origin main
+<br>
+<br>
 *)git commit -m "some message"
